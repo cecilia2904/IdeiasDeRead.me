@@ -33,3 +33,4 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 ## :dart: Status do projeto
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
